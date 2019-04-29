@@ -1,2 +1,4 @@
-#Linux Shell Scripting Tutorial for self learning purpose
+Linux Shell Scripting Tutorial for self learning purpose
 ==========================================================
+#Declaring Variables
+
